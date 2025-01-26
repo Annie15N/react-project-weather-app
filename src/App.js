@@ -7,12 +7,19 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="London" />
         <footer>
-          This project was coded by Annie Nelson and is {""}
+          This project was coded by Annie Nelson and is open-sourced on {""}
           <a
             href="https://github.com/Annie15N/react-project-weather-app"
             target="_blank"
           >
-            open-sourced on GitHub
+            GitHub
+          </a>
+          {""} and is hosted on {""}
+          <a
+            href="https://gorgeous-paprenjak-1743ac.netlify.app/"
+            target="_blank"
+          >
+            Netlify
           </a>
         </footer>
       </div>
