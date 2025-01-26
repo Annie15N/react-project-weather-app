@@ -11,6 +11,7 @@ export default function App() {
           <a
             href="https://github.com/Annie15N/react-project-weather-app"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>
@@ -18,6 +19,7 @@ export default function App() {
           <a
             href="https://gorgeous-paprenjak-1743ac.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             Netlify
           </a>
