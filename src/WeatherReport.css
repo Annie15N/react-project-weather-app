@@ -1,6 +1,7 @@
 .WeatherReport {
   text-align: center;
   color: #5c7285;
+  margin-top: 20px;
 }
 
 .WeatherReport-min-temperature {
