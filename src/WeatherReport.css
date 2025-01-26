@@ -1,0 +1,9 @@
+.WeatherReport {
+  text-align: center;
+  color: #5c7285;
+}
+
+.WeatherReport-min-temperature {
+  opacity: 0.5;
+  margin-left: 5px;
+}
